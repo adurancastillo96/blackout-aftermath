@@ -1,0 +1,21 @@
+{
+  "name": "blackout-aftermath",
+  "version": "1.0.0",
+  "description": "<figure>   <img src=\"https://www.24matins.es/app/uploads/2025/04/Europa-a-oscuras-los-memes-y-reacciones-mas-divertidos-tras.jpg\" alt=\"Trulli\" style=\"width:375px\">   <figcaption>Técnicos trabajando para restablecer el suministro.</figcaption> </figure>",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adurancastillo96/blackout-aftermath.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adurancastillo96/blackout-aftermath/issues"
+  },
+  "homepage": "https://github.com/adurancastillo96/blackout-aftermath#readme"
+}
